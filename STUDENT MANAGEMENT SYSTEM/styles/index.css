@@ -1,0 +1,39 @@
+#navbar{
+    background-color: teal;
+    
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 40px;
+}
+#navbar>div>a{
+    color: white;
+}
+
+#form_input{
+    width: 40%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    text-align: center;
+    padding: 30px 5px 30px 5px;
+    border-radius: 10px;
+}
+
+input{
+    margin-bottom: 20px;
+}
+
+#submit{
+    background-color: teal;
+    padding: 5px 30px 5px 30px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+#noofs{
+    display: flex;
+    gap: 5px;
+    color: white;
+}
